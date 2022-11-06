@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PanicAtTheCisco
-- I am still a beginner to programming so excuse any errors. Feel free to let me know any suggestions you have for ways to improve my programs.
+- I mainly program for fun and create projects that I find interesting
 
 <!---
-899523/899523 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PanicAtTheCisco/PanicAtTheCisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
