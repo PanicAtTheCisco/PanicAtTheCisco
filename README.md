@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PanicAtTheCisco
-- I mainly program for fun and create projects that I find interesting
+- I mainly program for fun and create projects that I find interesting to learn new things from
 
 <!---
 PanicAtTheCisco/PanicAtTheCisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
