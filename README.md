@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PanicAtTheCisco
-- I mainly program for fun and create projects that I find interesting to learn new things from
+##👋 Hi, I’m @PanicAtTheCisco
+###I mainly program for fun and create projects that I find interesting to learn new things from
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanicAtTheCisco&show_icons=true&theme=transparent)
 <!---
