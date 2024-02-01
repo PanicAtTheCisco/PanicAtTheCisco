@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @PanicAtTheCisco
-* Programming for fun and to learn new things
-* Interested in Cybersecurity, Hacking and Tech
+*📚 Programming for fun and to learn new things
+*🖥️ Interested in Cybersecurity, Hacking and Tech
 <!---
 PanicAtTheCisco/PanicAtTheCisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
