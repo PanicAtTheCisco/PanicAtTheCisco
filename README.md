@@ -4,7 +4,7 @@
 * 🖥️ Interested in everything Cybersecurity
 
 <h3 align="left">My Toolbox Website:</h3>
-<a href="https://toolbox.paniclabs.dev/" target="_blank" rel="noreferrer">
+<a href="https://toolbox.paniclabs.dev/" target="_blank">
   <img src="toolbox-button.svg">
 </a>
 
