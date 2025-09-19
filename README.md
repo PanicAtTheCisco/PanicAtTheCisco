@@ -5,7 +5,7 @@
 
 <h3 align="left">My Toolbox Website:</h3>
 <a href="https://toolbox.paniclabs.dev/" target="_blank" rel="noreferrer">
-  <img src="toolbox-button2.svg">
+  <img src="toolbox-button.svg">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
