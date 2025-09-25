@@ -3,7 +3,7 @@
 * 📚 I like doing random projects for fun and to learn new things
 * 🖥️ Interested in everything Cybersecurity
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">Project Site:</h3>
 <a href="https://paniclabs.dev/" target="_blank" rel="noopener noreferrer">
   <img src="./assets/button.svg">
 </a>
