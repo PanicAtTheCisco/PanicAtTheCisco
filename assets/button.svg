@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="auto" height="60" style="display:block;margin:0;padding:0;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80" width="auto" height="60" 
+     style="display:block;margin:0;padding:0;vertical-align:middle;">
   <foreignObject x="0" y="0" width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -20,45 +21,45 @@
           text-decoration: underline;
           text-underline-offset: 6px;
           overflow: hidden;
-          line-height: 1; /* kill extra vertical space */
+          line-height: 1;
         }
 
-        /* Violet blurred glow */
-        .btn::before {
+        /* subtle glow effects */
+        .btn::before,
+        .btn::after {
           content: '';
           position: absolute;
+          border-radius: 50%;
+          filter: blur(30px);
+          opacity: 0.6;
+        }
+
+        .btn::before {
           width: 80px;
           height: 80px;
           background: #8b5cf6;
-          border-radius: 50%;
-          filter: blur(25px);
           top: 6px;
           right: 16px;
           animation: pulseViolet 6s ease-in-out infinite alternate;
         }
 
-        @keyframes pulseViolet {
-          0% { transform: translate(0,0) scale(1); opacity: 0.6; }
-          100% { transform: translate(6px,-6px) scale(1.2); opacity: 0.9; }
-        }
-
-        /* Rose blurred glow */
         .btn::after {
-          content: '';
-          position: absolute;
           width: 100px;
           height: 100px;
           background: #f43f5e;
-          border-radius: 50%;
-          filter: blur(35px);
           top: 20px;
           right: 60px;
           animation: pulseRose 7s ease-in-out infinite alternate;
         }
 
+        @keyframes pulseViolet {
+          0% { transform: scale(1); opacity: 0.6; }
+          100% { transform: scale(1.2); opacity: 0.9; }
+        }
+
         @keyframes pulseRose {
-          0% { transform: translate(0,0) scale(1); opacity: 0.5; }
-          100% { transform: translate(-6px,6px) scale(1.15); opacity: 0.8; }
+          0% { transform: scale(1); opacity: 0.5; }
+          100% { transform: scale(1.15); opacity: 0.8; }
         }
 
         .label {
