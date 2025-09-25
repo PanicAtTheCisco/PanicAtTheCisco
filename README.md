@@ -5,7 +5,7 @@
 
 <h3 align="left">Projects:</h3>
 <a href="https://paniclabs.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="button.svg">
+  <img src="./assets/button.svg">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
